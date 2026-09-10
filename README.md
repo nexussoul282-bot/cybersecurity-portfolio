@@ -1,2 +1,0 @@
-# cybersecurity-portfolio
-Cyber security 
